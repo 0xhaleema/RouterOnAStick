@@ -6,7 +6,7 @@ A hands-on network simulation project implementing **inter-VLAN routing using th
 
 ## 🖥️ Topology Overview
 
-![Network Topology](topology.png)
+![Network Topology](Topology.png)
 
 - **1 Router** (IOSv) — handles inter-VLAN routing via subinterfaces
 - **1 Layer 3 Switch** (c3640) — uplink to router, trunk configuration
@@ -56,7 +56,6 @@ The link between the router and the L3 switch is configured as a **trunk**, allo
 | `IOSv_startup_config.img.md5sum` | Integrity checksum for config image |
 | `Router-on-a-stick Network Using GNS3.pdf` | Full lab report and documentation |
 
-> ⚠️ Cisco IOS image files (`vios-adventerprisek9-m.vmdk.SPA.156-2.T`, `c3640-a3js-mz.124-23.image`) are **not included** in this repository due to Cisco licensing restrictions. You must provide your own licensed copies.
 
 ---
 
