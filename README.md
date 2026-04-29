@@ -44,18 +44,10 @@ Router (IOSv)
 The link between the router and the L3 switch is configured as a **trunk**, allowing all VLAN-tagged traffic to pass over a single cable.
 
 ---
-
-## 🗂️ Repository Contents
-
-| File | Description |
-|---|---|
-| `network.gns3` | GNS3 project file (topology) |
-| `cisco-iosv.gns3a` | GNS3 appliance template for IOSv router |
-| `cisco-iosv.gns3a.md5sum` | Integrity checksum for appliance file |
-| `IOSv_startup_config.img` | Startup configuration disk image |
-| `IOSv_startup_config.img.md5sum` | Integrity checksum for config image |
-| `Router-on-a-stick Network Using GNS3.pdf` | Full lab report and documentation |
-
+## 📥 Download IOS Images
+- [vios-adventerprisek9-m.vmdk.SPA.156-2](https://drive.google.com/file/d/14vY1WJNV-tiQsFhcdArHey3jm50oJxmg/view?usp=sharing)
+- [c3640-a3js-mz.124-23.image](https://drive.google.com/file/d/1CH9FQJkwPhBlsplNRk264O0SlCrQ3dp8/view?usp=sharing)
+- [cisco-iosv](https://drive.google.com/file/d/1U9zizPKsPvozAq6tmticisctgi96cu_R/view?usp=sharing)
 
 ---
 
